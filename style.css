@@ -63,16 +63,16 @@ header a {
 
 
 #hero {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.imgur.com/wEvoDIO.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('cotton_fluff.jpg');
 }
 
 #about {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://www.aier.org/sites/default/files/Files/WYSIWYG/blog/9491/assorted-blurred-background-boutique-994523.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('swapshop.jpg');
 }
 
 #Sugg {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://png.pngtree.com/thumb_back/fw800/back_pic/03/83/07/0057c83d67635f9.jpg')
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('forest.jpg')
 }
 #contact {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('red_forest.jpg');
 }
